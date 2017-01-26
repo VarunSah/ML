@@ -1,0 +1,124 @@
+1	34.173869100956	189	11
+2	45.770461317016	183	17
+3	46.342306721837	182	18
+4	46.947068264488	182	18
+5	47.414727028728	180	20
+6	47.800154210287	180	20
+7	48.124422106025	180	20
+8	48.399617379776	180	20
+9	48.634973988549	181	19
+10	48.837963981078	182	18
+11	49.014591999403	182	18
+12	49.169621178018	183	17
+13	49.306800615474	183	17
+14	49.429075548560	183	17
+15	49.538765902231	183	17
+16	49.637710150657	183	17
+17	49.727377650610	183	17
+18	49.808954789539	183	17
+19	49.883410406290	183	17
+20	49.951545239588	183	17
+0.074069399804	negative	negative
+0.615486477028	positive	negative
+0.697074331035	positive	negative
+0.530220367634	positive	negative
+0.484684645386	negative	negative
+0.852050975571	positive	negative
+0.467429260357	negative	negative
+0.030684816715	negative	negative
+0.943870338748	positive	negative
+0.883067015428	positive	negative
+0.025456866504	negative	negative
+0.925470541011	positive	negative
+0.979447225209	positive	negative
+0.955523742750	positive	negative
+0.306509031270	negative	negative
+0.247634500829	negative	negative
+0.014973303780	negative	negative
+0.029387893571	negative	negative
+0.645459373006	positive	negative
+0.236317165900	negative	negative
+0.490907614382	negative	negative
+0.822327628676	positive	negative
+0.164794134576	negative	negative
+0.240899142507	negative	negative
+0.458454425022	negative	negative
+0.321071542138	negative	negative
+0.096058804535	negative	negative
+0.252463949444	negative	negative
+0.026312577167	negative	negative
+0.635274625390	positive	negative
+0.894440542143	positive	negative
+0.997878877520	positive	negative
+0.418690116615	negative	negative
+0.924076779518	positive	negative
+0.090060547478	negative	negative
+0.668616087901	positive	negative
+0.526031064114	positive	negative
+0.916619898531	positive	negative
+0.373422463637	negative	negative
+0.012751369855	negative	negative
+0.258843783703	negative	negative
+0.267688401785	negative	negative
+0.977700853530	positive	negative
+0.468825634865	negative	negative
+0.950766057727	positive	negative
+0.902870915944	positive	negative
+0.169574963951	negative	negative
+0.546532154436	positive	negative
+0.315897083120	negative	negative
+0.221020266471	negative	negative
+0.913982061256	positive	negative
+0.943104650482	positive	negative
+0.481251349480	negative	negative
+0.190344291611	negative	negative
+0.153541847813	negative	negative
+0.219064896417	negative	negative
+0.219064896417	negative	negative
+0.998668442164	positive	positive
+0.769857584961	positive	positive
+0.714741724384	positive	positive
+0.979249345685	positive	positive
+0.837483529913	positive	positive
+0.999650853927	positive	positive
+0.938999255996	positive	positive
+0.996737987351	positive	positive
+0.986648520648	positive	positive
+0.988660187808	positive	positive
+0.987132073783	positive	positive
+0.999809081306	positive	positive
+0.997718124960	positive	positive
+0.991480933852	positive	positive
+0.864310966078	positive	positive
+0.975574303990	positive	positive
+0.953281490406	positive	positive
+0.998440401928	positive	positive
+0.987929735776	positive	positive
+0.998070832081	positive	positive
+0.818110437514	positive	positive
+0.799763585542	positive	positive
+0.998779817344	positive	positive
+0.975114792807	positive	positive
+0.818140422744	positive	positive
+0.694414059780	positive	positive
+0.908141238305	positive	positive
+0.998675931476	positive	positive
+0.999683518771	positive	positive
+0.391782892585	negative	positive
+0.950560344249	positive	positive
+0.998789988947	positive	positive
+0.987315999552	positive	positive
+0.970595297413	positive	positive
+0.999154984136	positive	positive
+0.987261771585	positive	positive
+0.990484250124	positive	positive
+0.819719216001	positive	positive
+0.999686587748	positive	positive
+0.545342137076	positive	positive
+0.997622881984	positive	positive
+0.926548867057	positive	positive
+0.668442610667	positive	positive
+0.997395438376	positive	positive
+0.994120256199	positive	positive
+0.797979415865	positive	positive
+Correctly Classified: 78	Incorrectly Classified: 25

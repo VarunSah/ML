@@ -1,0 +1,53 @@
+1	51.440084279846	79	21
+2	51.725649219564	77	23
+3	46.684623233369	84	16
+4	42.330242842778	87	13
+5	39.045033334127	88	12
+6	36.509695824258	89	11
+7	34.489565485609	88	12
+8	32.835425514039	89	11
+9	31.450404005240	89	11
+10	30.269271592252	90	10
+0.890749146774	malign_lymph	malign_lymph
+0.593627824334	malign_lymph	malign_lymph
+0.641173328448	malign_lymph	malign_lymph
+0.190943060908	metastases	malign_lymph
+0.208747128751	metastases	malign_lymph
+0.666139120677	malign_lymph	malign_lymph
+0.500370315776	malign_lymph	malign_lymph
+0.852201360371	malign_lymph	malign_lymph
+0.847578478749	malign_lymph	malign_lymph
+0.625883002153	malign_lymph	malign_lymph
+0.053407076814	metastases	malign_lymph
+0.255183942367	metastases	malign_lymph
+0.768820327172	malign_lymph	malign_lymph
+0.589828859030	malign_lymph	malign_lymph
+0.416129557469	metastases	malign_lymph
+0.722137606587	malign_lymph	malign_lymph
+0.095116465151	metastases	malign_lymph
+0.673406923974	malign_lymph	malign_lymph
+0.172407843849	metastases	metastases
+0.035824418472	metastases	metastases
+0.054866316787	metastases	metastases
+0.035417097558	metastases	metastases
+0.085688804337	metastases	metastases
+0.090008037965	metastases	metastases
+0.060552450201	metastases	metastases
+0.035899849543	metastases	metastases
+0.029086142479	metastases	metastases
+0.202975681288	metastases	metastases
+0.030548707371	metastases	metastases
+0.180002141980	metastases	metastases
+0.112203774606	metastases	metastases
+0.141726400919	metastases	metastases
+0.197617377774	metastases	metastases
+0.129138889703	metastases	metastases
+0.050695679041	metastases	metastases
+0.056809291086	metastases	metastases
+0.157009918738	metastases	metastases
+0.135403929049	metastases	metastases
+0.093626375421	metastases	metastases
+0.155473870234	metastases	metastases
+0.432804942252	metastases	metastases
+0.199081601460	metastases	metastases
+Correctly Classified: 36	Incorrectly Classified: 6

@@ -1,0 +1,63 @@
+1	16.514408138801	95	5
+2	20.661096628998	92	8
+3	17.280182069578	93	7
+4	15.802882985630	93	7
+5	15.056007351390	95	5
+6	14.619621936670	95	5
+7	14.316581332051	95	5
+8	14.069814207616	94	6
+9	13.846066502129	95	5
+10	13.631500346190	94	6
+11	13.420974273570	95	5
+12	13.213177410435	95	5
+13	13.008360219355	95	5
+14	12.807277987932	95	5
+15	12.610720938237	96	4
+16	12.419331467408	96	4
+17	12.233558616220	96	4
+18	12.053672203799	96	4
+19	11.879796662626	96	4
+20	11.711945564040	96	4
+0.998570781496	malign_lymph	malign_lymph
+0.574513996162	malign_lymph	malign_lymph
+0.808953880886	malign_lymph	malign_lymph
+0.009079464962	metastases	malign_lymph
+0.050550616779	metastases	malign_lymph
+0.905252342543	malign_lymph	malign_lymph
+0.355356293447	metastases	malign_lymph
+0.994040698399	malign_lymph	malign_lymph
+0.990359496746	malign_lymph	malign_lymph
+0.960515247357	malign_lymph	malign_lymph
+0.000478762649	metastases	malign_lymph
+0.032795785671	metastases	malign_lymph
+0.970217356954	malign_lymph	malign_lymph
+0.591593009160	malign_lymph	malign_lymph
+0.037023148768	metastases	malign_lymph
+0.893526926895	malign_lymph	malign_lymph
+0.003612085963	metastases	malign_lymph
+0.739419933285	malign_lymph	malign_lymph
+0.004122842174	metastases	metastases
+0.000020878485	metastases	metastases
+0.000151961061	metastases	metastases
+0.000099659037	metastases	metastases
+0.006321832417	metastases	metastases
+0.000238645105	metastases	metastases
+0.001071729239	metastases	metastases
+0.000015182448	metastases	metastases
+0.000012809614	metastases	metastases
+0.019659399889	metastases	metastases
+0.000020236734	metastases	metastases
+0.002717015241	metastases	metastases
+0.000368909991	metastases	metastases
+0.006144581146	metastases	metastases
+0.006531955774	metastases	metastases
+0.001827402151	metastases	metastases
+0.000671318923	metastases	metastases
+0.000510411797	metastases	metastases
+0.007717064554	metastases	metastases
+0.003394386610	metastases	metastases
+0.000669487306	metastases	metastases
+0.002501412380	metastases	metastases
+0.158404394042	metastases	metastases
+0.005556357569	metastases	metastases
+Correctly Classified: 35	Incorrectly Classified: 7
